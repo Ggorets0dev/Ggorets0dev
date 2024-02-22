@@ -6,4 +6,4 @@
 * Дополнительные средства разработки: C#, Node.js
 * Используемые БД: PostgreSQL, SQLite, MongoDB
 * Используемые системы сборки: make, cmake, qmake, docker
-* Используемые Линукс дистрибутивы (разработка/личное): Debian, Astra, Manjaro, Fedora
+* Используемые Linux дистрибутивы (разработка/личное): Debian, Astra, Manjaro, Fedora
